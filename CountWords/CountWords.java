@@ -4,7 +4,7 @@ import java.io.File;
 //import java.util.HashMap;
 import java.util.Scanner;
 import java.util.TreeMap;
-// Testkommentar fuer Git
+
 public class CountWords {
 	
 	   public static void main( String args[]) {
